@@ -42,7 +42,7 @@ The complete system performs image acquisition, preprocessing and classification
 | Evaluation | Accuracy |
 |---|---:|
 | Float32 model testing | 95.45% |
-| INT8 model testing | 93.64% |
+| INT8 model testing | 94.55% |
 | Practical on-device testing | 88.35% |
 
 The practical test included 103 samples, of which 91 were correctly classified.
